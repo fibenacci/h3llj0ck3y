@@ -29,7 +29,3 @@
 <p><a href="https://www.buymeacoffee.com/fibenacci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ben" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fibenacci&show_icons=true&locale=en&layout=compact" alt="Ben" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fibenacci&show_icons=true&locale=en" alt="h3llj0ck3y" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fibenacci&" alt="Ben" /></p>
