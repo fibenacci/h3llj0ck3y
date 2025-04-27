@@ -1,9 +1,22 @@
-<h1 align="center">Hi 👋, I'm h3llj0ck3y</h1>
+<h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate shopware developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h3llj0ck3y&label=Profile%20views&color=0e75b6&style=flat" alt="h3llj0ck3y" /> </p>
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fibenacci&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h3llj0ck3y" alt="h3llj0ck3y" /></a> </p>
+<details open>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fibenacci&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Ben's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=fibenacci&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Ben's streak"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
