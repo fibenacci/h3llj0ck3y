@@ -9,11 +9,12 @@
 </details>
 
 <details open>
-<summary>GitHub Stats</summary>
-<div style="display:flex">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fibenacci&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Ben's GitHub stats" />
-    <img src="https://streak-stats.demolab.com?user=fibenacci&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Ben's streak"/>
-</div>
+    <summary>GitHub Stats</summary>
+    <div style="display:flex">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fibenacci&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Ben's GitHub stats" />
+        <img src="https://streak-stats.demolab.com?user=fibenacci&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Ben's streak"/>
+    </div>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
